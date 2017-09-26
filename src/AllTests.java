@@ -7,4 +7,5 @@ import org.junit.runners.Suite.SuiteClasses;
 @SuiteClasses({ testaddnumber.class, testaddString.class })
 public class AllTests {
 
+	
 }
